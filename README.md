@@ -1,1 +1,1 @@
-# lstm_pm_keras
+# LSTM_Pose_Machines in Keras
